@@ -7,7 +7,7 @@ function App() {
     return (
         <BrowserRouter>
             <div className="App">
-                {/*<Main/>*/}
+                Главная
                 <div className="app-wrapper-content">
                     <Routers/>
                 </div>
