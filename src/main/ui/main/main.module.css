@@ -1,0 +1,17 @@
+.nav {
+
+    background-color: #118ae1;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.items{
+    display: flex;
+    flex-direction: column;
+}
+
+.items a{
+    color: #f7f2ed;
+    text-decoration: none;
+}
+
